@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
 
-FILE_NAME = "sales_data.csv"
+FILE_NAME = "sales_dat"
 
 # Create CSV if not exists
 try:
